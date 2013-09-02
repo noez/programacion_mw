@@ -7,7 +7,7 @@ $link = Conectarse();
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Alpha | Login</title>
+        <title></title>
         <link href="css/bootstrap.css" rel="stylesheet">
         <link href="css/bootstrap-responsive.css" rel="stylesheet"> 
         <link href="css/login.css" rel="stylesheet"> 
